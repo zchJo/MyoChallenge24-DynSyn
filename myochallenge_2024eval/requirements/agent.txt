@@ -1,0 +1,17 @@
+grpcio==1.47.0
+grpcio-tools==1.47.0
+protobuf==3.20.*
+matplotlib
+tabulate
+gymnasium==0.29.1
+myosuite==2.8.4
+mujoco==3.1.2
+imageio
+stable_baselines3==2.3.2
+sb3_contrib==2.3.0
+shimmy>=0.2.1
+PyOpenGL==3.1.4
+numpy==2.1.3
+
+# Add your own dependencies here
+# awesome_dependency==0.99

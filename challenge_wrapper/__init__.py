@@ -1,0 +1,2 @@
+from challenge_wrapper.loco_wrapper import LocoWrapper
+from challenge_wrapper.mani_wrapper import ManiWrapper
